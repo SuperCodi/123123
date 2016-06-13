@@ -1,0 +1,5 @@
+platform:ios,'9.2'
+target '喜闻乐见' do
+pod 'AFNetworking'
+pod 'SDWebImage'
+end
